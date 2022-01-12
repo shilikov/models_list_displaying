@@ -1,0 +1,65 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Чапаев и пустота",
+      "author": "Виктор Пелевин",
+      "pub_date": "2010-11-02"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Комментарий к обществу спектакля",
+      "author": "Ги Эрнест Дебор",
+      "pub_date": "2000-11-07"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Сказка о тройке",
+      "author": "Братья Стругацкие",
+      "pub_date": "2000-11-07"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Пролетая над гнездом кукушки",
+      "author": "Кен Кизи",
+      "pub_date": "1996-10-09"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Над пропостью во ржи",
+      "author": "Д.Н. Сэлинджер",
+      "pub_date": "1996-10-09"
+    }
+  }
+]
